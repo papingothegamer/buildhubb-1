@@ -4,3 +4,4 @@ I took inspiration from the FX television series "The Bear", because it reminds 
 A majority of this project was laid out in my head, and I used HTML, CSS and JS to handle styling, responsiveness and features of each part of the site. 
 Also, I spent 3 hours doing this. I wan go sleep.
 Deploy link will be added when i'm up.
+deploy link: (buildhubb-1.vercel.app)
